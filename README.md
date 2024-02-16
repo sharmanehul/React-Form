@@ -90,9 +90,9 @@ const SignupForm = () => {
       
       setSuccessMessage('Successfully Registered!');
     }
-  };
+  };*/
 
-  const { email, name, country, age, password } = formData;
+  /*const { email, name, country, age, password } = formData;
 
   return (
     <div>
